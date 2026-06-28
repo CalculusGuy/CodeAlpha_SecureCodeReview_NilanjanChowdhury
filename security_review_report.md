@@ -388,7 +388,7 @@ And other common web vulnerabilities
 
 The secure version is ready for production deployment.
 
-👤 **Reviewer Information** ||
+👤 **Reviewer Information** 
 
 Name: **Nilanjan Chowdhury** ||
 Username: Nilanjan_Hacks4Fun ||
