@@ -388,12 +388,12 @@ And other common web vulnerabilities
 
 The secure version is ready for production deployment.
 
-👤 **Reviewer Information**
+👤 **Reviewer Information** ||
 
-Name: **Nilanjan Chowdhury**
-Username: Nilanjan_Hacks4Fun
-GitHub: CalculusGuy
-TryHackMe: **Top 3% Global**, Diamond League
+Name: **Nilanjan Chowdhury** ||
+Username: Nilanjan_Hacks4Fun ||
+GitHub: CalculusGuy ||
+TryHackMe: **Top 3% Global**, Diamond League ||
 
 Date: June 28, 2026
 
